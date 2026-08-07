@@ -32,6 +32,3 @@ This project represents an initial prototype of the SecureBand smart safety brac
 - Aya Ahmed Hashim
 - Zainab Maher Mazher
 - Zahraa Mohammed Zghir
-
-## Team Members
-(Add team members' names here)
