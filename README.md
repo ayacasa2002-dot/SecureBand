@@ -1,5 +1,4 @@
-# SecureBand
-Smart Safety Bracelet using Arduino
+
 # SecureBand - Smart Safety Bracelet
 
 ## Overview
