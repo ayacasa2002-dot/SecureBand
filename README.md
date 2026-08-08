@@ -11,7 +11,6 @@ The project focuses on developing a wearable smart bracelet that enhances person
 - ESP32-S3
 #### ESP32-S3
 ![ESP32-S3](images%20%282%29.webp)
-
 ![ESP32-S3](images.webp)
 - GPS Module
 - Lithium Battery
