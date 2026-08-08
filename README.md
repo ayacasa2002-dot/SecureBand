@@ -10,8 +10,13 @@ The project focuses on developing a wearable smart bracelet that enhances person
 ## Hardware Components
 - ESP32-S3
 #### ESP32-S3
-![ESP32-S3](images%20%282%29.webp)
+### Hardware Components
+
+#### ESP32-S3
+
 ![ESP32-S3](images.webp)
+
+![ESP32-S3](images%20%282%29.webp)
 - GPS Module
 - Lithium Battery
 - Charging Module
